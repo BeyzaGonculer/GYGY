@@ -18,7 +18,7 @@ public class Main {
         User user = new User();
         user.setId(1);
         user.setEmail("turkcell@gmail.com");
-        user.setName("Turkcell");
+        user.setName("Turkcell222");
         user.setPassword("a");
 
         userService.save(user);
